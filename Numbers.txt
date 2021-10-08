@@ -17,4 +17,4 @@
 yui
 kuni
 maycol
-nakaji
+nakaji_wa_ogikoi
