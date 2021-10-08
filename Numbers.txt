@@ -14,7 +14,7 @@
 14 hoge
 15 hoge
 
-yui
-kuni
-maycol
-nakaji
+yui-mm
+kuni-mm
+maycol-mm
+nakaji-mm
